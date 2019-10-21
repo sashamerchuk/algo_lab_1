@@ -1,0 +1,6 @@
+Aurora ,25,part 166,200
+NewYoirk ,261,pdsppds 12,250
+Aurora ,250,part 166,300
+NewYoirk ,330,pdsppds 12,450
+Aurora ,325,part 166,500
+NewYoirk ,430,pdsppds 12,650
